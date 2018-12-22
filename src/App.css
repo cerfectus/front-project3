@@ -1,0 +1,77 @@
+.App {
+  background-color: white;
+  color: black;
+}
+div{
+  margin: 0%;
+}
+.img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+.box {
+  color: black;
+}
+.juego {
+  background-color: #d4ffff;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 25px;
+
+}
+.boxes {
+  width: 500px;
+  clear: both;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+.boxes input {
+  width: 100%;
+  clear: both;
+}
+.casa {
+  color: black;
+  margin: 0%;
+  padding: 0%
+}
+.cambia {
+  color: black;
+}
+.stick-nav{
+background-color: black;
+}
+.home-row div{
+  display: flex;
+  flex-direction: row;
+}
+.navbar{
+  margin-bottom:0px !important;
+}
+.card-title{
+  margin-top: 0% !important;
+}
+.Card-Body{
+  display: flex;
+  flex-direction: column;
+}
+.Card{
+  display: flex;
+  flex-direction: column;
+}
+.home-row div{
+  display: flex;
+  flex-direction: column !important;
+}
+.box{
+  padding: 40px;
+}
+a {
+  color: white !important;
+  text-decoration: none;
+}
+div .home-row{
+  display: flex;
+  flex-direction: row !important;
+}
